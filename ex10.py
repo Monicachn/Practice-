@@ -9,6 +9,8 @@ I'll do a list:
 \t* Catnip\n\t* Grass
 """ #\t 代表Tab键，即该行缩进8个空格
 
+#以下几行为test\转义符的功能
+
 print(tabby_cat)
 print(persian_cat)
 print(backslash_cat)
