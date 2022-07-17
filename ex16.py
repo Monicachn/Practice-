@@ -31,7 +31,7 @@ target.write(line3)
 target.write("\n")
 
 print("And finally, we close it.")
-target.close()
+target.close() # 关闭文件target
 
 # 拓展
 # 可以用‘w+’、'r+'、'a+'，把文件用同时读写的方法打开，并根据使用的字符，以不一样的方式实线文件的定位
